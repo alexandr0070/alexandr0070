@@ -6,7 +6,7 @@ My name is **Alexander**, I'm a student of the [Information Technologies and Pro
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C2FF&random=false&width=435&lines=-+%F0%9F%8E%93+Mentor+of+the+ITMO+University)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C2FF&random=false&width=435&lines=-+%E2%9A%99%EF%B8%8F+Interested+in+object-oriented+programming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C2FF&random=false&width=435&lines=-+%E2%9A%99%EF%B8%8F+Interested+in+OOP)](https://git.io/typing-svg)
 
 ## Current work 👇
 

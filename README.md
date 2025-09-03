@@ -2,26 +2,26 @@
 ### Hi there 👋
 My name is **Alexander**, I'm a student of the [Information Technologies and Programming](https://en.itmo.ru/en/faculty/7/Information_Technologies_and_Programming_Faculty.htm) department at the [ITMO University](https://en.itmo.ru/en/) in St. Petersburg, Russia.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C2FF&random=false&width=435&lines=-+%F0%9F%92%BB+Software+engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=7000&color=38C2FF&random=false&width=435&lines=-+%F0%9F%92%BB+Software+engineer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C2FF&random=false&width=435&lines=-+%F0%9F%8E%93+Mentor+of+the+ITMO+University)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=7000&color=38C2FF&random=false&width=435&lines=-+%F0%9F%8E%93+Lecturer+in+Computer+Science)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C2FF&random=false&width=435&lines=-+%E2%9A%99%EF%B8%8F+Interested+in+quantum+physics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=7000&color=38C2FF&random=false&width=435&lines=-+%E2%9A%99%EF%B8%8F+Interested+in+quantum+physics)](https://git.io/typing-svg)
 
 ## Current work 
 
-I'm currently working on [ITMO University](https://en.itmo.ru/en/faculty/7/Information_Technologies_and_Programming_Faculty.htm). I am teaching and helping student with discrete mathematics.
+Software Engineer at Yadro, developing high-load storage systems, and a Lecturer at [ITMO University](https://en.itmo.ru/en/faculty/7/Information_Technologies_and_Programming_Faculty.htm) teaching Algorithms and Data Structures and Discrete Mathematics.
 
 ## Toolbox 
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; Languages 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
@@ -44,7 +44,7 @@ I'm currently working on [ITMO University](https://en.itmo.ru/en/faculty/7/Infor
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
 
-### &nbsp; &nbsp; &nbsp; &nbsp; Frameworks 🖼
+### &nbsp; &nbsp; &nbsp; &nbsp; Frameworks
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
